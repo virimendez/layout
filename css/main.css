@@ -1,5 +1,5 @@
 .container{
-	width: 50%;
+	width: 700px;
 	margin: 0 auto;
 }
 ul{
@@ -8,7 +8,149 @@ ul{
 }
 li{
 	display: inline;
-    border-right: 2px solid black;
+    border-right: 1px solid black;
     padding-left: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 2px;
+    padding-right: 10px;
 }
+.foto{
+	width: 700px;
+	height: 500px;
+	
+}
+.parrafo{
+	border: 2px solid purple;
+	margin-left: 255px;
+	width: 110px
+}
+.pequeña{
+	border: 2px solid purple;
+	margin-left: 255px;
+	width: 110px;
+}
+.peque{
+	border: 2px solid purple;
+	margin-left: 2px;
+	width: 110px;   
+}
+.morado{	
+	background-image: url("../img/profile-1.png");
+	-webkit-filter: blur(1px);
+
+}
+.rosa{
+
+	background-image: url("../img/profile-2.png");
+	-webkit-filter: blur(1px);
+}
+.azul{
+
+	background-image: url("../img/profile-3.png");
+    -webkit-filter: blur(1px);
+}
+
+.rojo{
+    background-image: url("../img/profile-4.png");
+    -webkit-filter: blur(1px);
+
+}
+.verde{
+	background-image: url("../img/profile-5.png");
+    -webkit-filter: blur(1px);
+
+}
+.amarillo{
+	background-image: url("../img/profile-6.png");
+	-webkit-filter: blur(1px);
+
+}	
+.fotos{
+	width: 200px;
+	height: 200px;
+	border: 3px solid purple;
+	margin: 10px; 
+	display: inline-block;
+}
+.p1{
+	padding-top: 150px;
+    text-align: right;
+    color: #ffffff;
+}
+.fot{
+	width: 200px;
+	height: 200px;
+	border: 3px solid purple;
+	margin: 10px; 
+	display: inline-block;
+}
+.pa1{
+	background-image: url("../img/p5.jpg");
+	-webkit-filter: blur(1px);
+	background-size: 150%;
+}
+.pa2{
+	background-image: url("../img/p6.jpg");
+	-webkit-filter: blur(1px);
+	background-size: 150%;
+}
+.pa3{
+	background-image: url("../img/p8.jpg");
+	-webkit-filter: blur(1px);
+	background-size: 150%;
+}
+.h{
+	width: 400px;
+	height: 25px;
+	border: 2px solid purple;   
+	margin: 1px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: #e5ccff;
+	margin-left: 70px;
+}
+.c{
+	width: 330px;
+	height: 25px;
+	border: 2px solid purple;   
+	margin: 1px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: #e5ccff;
+	margin-left: 70px;
+}
+.j{
+	width: 250px;
+	height: 25px;
+	border: 2px solid purple;   
+	margin: 1px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: #e5ccff;
+	margin-left: 70px;
+}
+.borde{
+	border: 2px solid #e5ccff;
+    padding: 15px 15px 15px 15px;
+
+}
+.redondo{
+	border-radius: 200%;
+	width: 200px;
+	height: 200px;
+	margin-left: 250px;
+	padding-top: 25px;
+}
+.seg{
+	text-align: center;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+h1{
+	text-align: center;
+}
+
+h2{
+	margin-left: 25px;
+}
+
+
